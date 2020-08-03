@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Contao Bundles
 - 🌱 I’m currently learning Docker, Kubernetes, Helm
-- 🌤 Certified: Azure Fundamentals
+- :cloud: Certified: Azure Fundamentals
 
 | My Contao 4 bundles | My old Contao 3 extensions |
 | ------------- | ------------- |
