@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on EU Federation Gateway Service
-- 🌱 I’m currently learning Docker, Kubernetes, Helm
+- 🔭 I’m currently working on EU Digital Green Certificates 
+- 🌱 I’m currently learning Docker, Ansible
 - :cloud: Certified: Azure Fundamentals
 
 | My Contao 4 bundles | My old Contao 3 extensions |
