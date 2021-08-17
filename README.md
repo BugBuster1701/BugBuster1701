@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on EU Digital Green Certificates 
+- 🔭 I’m currently working on Multimedia Resource Function (MRF) 
 - 🌱 I’m currently learning Docker, Ansible
 - :cloud: Certified: Azure Fundamentals
 
