@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Multimedia Resource Function (MRF) 
-- 🌱 I’m currently learning Docker, Ansible
+- 🌱 I’m currently learning Ansible, Python
 - :cloud: Certified: Azure Fundamentals
 
 | My Contao 4 bundles | My old Contao 3 extensions |
